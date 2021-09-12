@@ -1,3 +1,7 @@
+# Coronavirus App - England
+
+This project shows data of new cases with Covid at England from [UK Government Covid Data](https://coronavirus.data.gov.uk/details/developers-guide).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
